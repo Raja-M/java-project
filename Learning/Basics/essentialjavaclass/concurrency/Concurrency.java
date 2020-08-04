@@ -1,4 +1,4 @@
-package java.essentialjavaclasses.concurr;
+package essentialjavaclass.concurrency;
 
 public class Concurrency {
 

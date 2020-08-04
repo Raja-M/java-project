@@ -10,7 +10,7 @@ class VaroperFlow{
 	
 	char ch = ' ';
 
-	String  str = 'Test string';
+	String  str = "Test string";
 
 	boolean bl = true;
 
